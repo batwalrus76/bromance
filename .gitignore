@@ -23,3 +23,5 @@ packet_filter.log
 reporter.log
 weird.log
 gradle
+.gradle
+output
